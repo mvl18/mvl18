@@ -1,4 +1,4 @@
-# Olá, eu sou Matheus Veiga! 👋
+# Olá, eu sou o Matheus Veiga! 👋
 
 ## 🚀 Sobre Mim
 
@@ -26,13 +26,15 @@ Sou estudante de Engenharia de Computação na [UNICAMP](https://www.unicamp.br/
 
 Estou constantemente em busca de novos conhecimentos e habilidades. Se você tem algo legal para compartilhar, estou ouvindo!
 
+## 🧩 Era essa peça que você queria?
+Eu sou tão frágil que, se você disser meu nome, eu quebro. O que sou eu?
+
 ## 🌐 Contato
 
 - Email: m269494@dac.unicamp.br
 - Telegram: https://t.me/mvl018
 
-## 🧩 Era essa peça que você queria?
-Eu sou tão frágil que, se você disser meu nome, eu quebro. O que sou eu?
+---
 
 > “A vida é como programar, sempre temos bugs para resolver, mas no final, vale a pena!” - Eu, depois de passar a noite debugando.
 
